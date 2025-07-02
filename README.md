@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jialicrazy/pipelines-java/_apis/build/status%2Fwoxinfeishi007.pipelines-java%20(5)?branchName=main)](https://dev.azure.com/jialicrazy/pipelines-java/_build/latest?definitionId=5&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
